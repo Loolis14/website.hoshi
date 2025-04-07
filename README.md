@@ -1,2 +1,4 @@
 # website.hoshi
-New website for Hoshi D. Ink
+New website "Hoshi D. Ink" for a friend
+
+This is my first touch of html and css. 
