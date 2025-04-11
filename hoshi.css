@@ -1,0 +1,94 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    font-family: "Trattatello", cursive;
+    background-image: url("images/image0.webp");
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+    top:0%;
+    border-bottom: 1px solid rgb(174, 169, 169);
+    background-color: rgb(186, 181, 181);
+}
+
+nav{
+    margin: 2% auto;
+    width: 80%;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.navigation{
+    display: inline-block;
+}
+
+.header-announcement-navigations ol{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-left: 2%;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.social-share{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.social-icons{
+    display: block;
+    width: 30px;
+    aspect-ratio: 3/3;
+}
+
+.social-icons img{
+    display: flex;
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-style: normal ;
+}
+h1::first-letter{
+    font-family: "Lavishly Yours", cursive;
+    font-size: 90px;
+}
+.after-dot{
+    font-family: "Lavishly Yours", cursive;
+    font-size: 90px;
+}
+
+#corps1{
+       
+        
+}
+
+aside{
+    color: #CD853F;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.little-description{
+    text-align: center;
+}
